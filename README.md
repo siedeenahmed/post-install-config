@@ -22,13 +22,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure Roles, Departments, Teams, Agents, Users, and SLAs.
+- Configure Roles, Departments, Teams, Agents, Users, and SLAs
 - Item 2?
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/30MaEal.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UfvbB2C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First, we configure the Roles, Departments, and Teams. Here we configured the role "Sumpreme Admin" with all permissions, the department "System Administrators", and the team "Level II Support".
@@ -36,7 +37,8 @@ First, we configure the Roles, Departments, and Teams. Here we configured the ro
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZUVvODE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jVyLT1d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Second, we configure Agents and Users and asisgn them to the Roles, Departments, and Teams that we created. Here we created the agents Jane and John and the Users Karen and Ken.
