@@ -5,11 +5,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -41,7 +36,7 @@ First, we configure the Roles, Departments, and Teams. Here we configured the ro
 <img src="https://i.imgur.com/jVyLT1d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Second, we configure Agents and Users and asisgn them to the Roles, Departments, and Teams that we created. Here we created the agents Jane and John and the Users Karen and Ken.
+Second, we configure Agents and Users and asisgn them to the Roles, Departments, and Teams that we created. Here we created the agents Jane and John and the users Karen and Ken.
 </p>
 <br />
 
