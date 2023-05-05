@@ -15,10 +15,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Post-Install Configuration Objective</h2>
 
 - Configure Roles, Departments, Teams, Agents, Users, and SLAs
-- Item 2?
 
 <h2>Configuration Steps</h2>
 
@@ -32,8 +31,8 @@ First, we configure the Roles, Departments, and Teams. Here we configured the ro
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZUVvODE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/jVyLT1d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ihu30lQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Second, we configure Agents and Users and asisgn them to the Roles, Departments, and Teams that we created. Here we created the agents Jane and John and the users Karen and Ken.
