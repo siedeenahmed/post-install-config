@@ -40,9 +40,9 @@ Second, we configure Agents and Users and asisgn them to the Roles, Departments,
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bqwfcQh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lastly, we configure SLAs. Here we create three levels with varying severity: Sev-A, Sev-B, Sev-C.
+Lastly, we configure SLAs. Here we create three levels with varying severity: Sev-A for tickets to be addressed within one hour, Sev-B for tickets to be addressed within four hours, Sev-C for tickets to be addressed within 8 hours.
 </p>
 <br />
